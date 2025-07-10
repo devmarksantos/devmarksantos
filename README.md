@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**devmarksantos/devmarksantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects  
+🚧 **Trivia Game** – A fun and interactive trivia quiz game built with **Vue.js** and **Tailwind CSS**, powered by the [Open Trivia DB API](https://opentdb.com/). Test your general knowledge across a variety of categories! (WIP)   
 
-Here are some ideas to get you started:
+## Socials  
+None. Please don’t seek me out.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use and am half-way "okay" at  
+- Laravel  
+- Vue  
+- Tailwind CSS  
+- Inertia.js    
+- Docker  
+
+## Support  
+If you like anything I’ve built, feel free to contact me: dev.marksantos@gmail.com
